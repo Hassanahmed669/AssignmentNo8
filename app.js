@@ -21,7 +21,7 @@ function timer(){
         sec = 0;
     }
 }
-
+	
 function start(){
 interval = setInterval(timer, 10)
 }
